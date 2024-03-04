@@ -1,0 +1,47 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: "Open Sans", sans-serif;
+  }
+
+
+  a {
+    color: white !important;
+  }
+
+
+  .fixed-top.scrolled {
+    background-color: #0dcaf0 !important;
+    transition: background-color 200ms linear;
+  }
+
+
+  .icon1 {
+    text-align: center;
+    color: white;
+    background-color: #328998;
+    margin-bottom: 10px;
+    }
+    
+    .icon2 {
+        text-align: center;
+        color: white;
+        background-color: #328998;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+    
+    .icon3 {
+      text-align: center;
+      color: white;
+      background-color: #328998;
+      margin-top: 10px;
+      margin-bottom: 50px;
+    }
+
+  footer {
+    height: 80px;
+    color: "#"white;
+  }
